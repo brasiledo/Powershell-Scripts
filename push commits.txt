@@ -1,8 +1,0 @@
-git add .
-git commit -m "Updated scripts or README"  # <-- Customize this message
-git push
-
-
-git add Blaster_1_ThreadJob.ps1
-git commit -m "Trigger commit with small change"
-git push origin main

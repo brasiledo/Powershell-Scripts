@@ -1,7 +1,0 @@
-@echo off
-echo Deleting batch files...
-del *.cmd
-git rm *.cmd
-git commit -m "Removed local batch files"
-git push origin main
-pause
